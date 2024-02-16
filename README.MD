@@ -11,6 +11,7 @@ Este projeto tem por objetivo desenvolver um algoritmo de Machine Learning para 
     - XGBOOST
     - LIGHTGBM
     - CATBOOST
+    -GRADIENT BOOSTING - com Grind Search
     
 
 
